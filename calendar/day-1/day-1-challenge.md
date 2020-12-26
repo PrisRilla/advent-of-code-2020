@@ -26,7 +26,7 @@ In this list, the two entries that sum to 2020 are 1721 and 299. Multiplying the
 
 Of course, your expense report is much larger.
 
-**Find the two entries that sum to 2020; what do you get if you multiply them together?**
+*Find the two entries that sum to 2020; what do you get if you multiply them together?*
 
 `197451` :white_check_mark:
 
@@ -35,7 +35,7 @@ The Elves in accounting are thankful for your help; one of them even offers you 
 
 Using the above example again, the three entries that sum to 2020 are 979, 366, and 675. Multiplying them together produces the answer, 241861950.
 
-In your expense report, what is the product of the three entries that sum to 2020?
+*In your expense report, what is the product of the three entries that sum to 2020?*
 
 `138233720` :white_check_mark:
 
